@@ -4,7 +4,7 @@
 Linky is a game with dots and lines <br />
 ![game_in_progress](https://user-images.githubusercontent.com/6407580/47387502-d1d9e700-d70f-11e8-9ff0-0b5fe7525f94.png)
 
-##  how Launch the game
+##  Launch the game
 Linux only:<br />
 Simply execute the file build/Linky to launch the game.<br />
 /!\ The refresh of the mouse doesn't have the same behavior during the development and when the executable file is used which occur the lines not to be draw instantly. This need to be fixed
